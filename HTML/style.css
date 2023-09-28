@@ -100,6 +100,7 @@
     margin-top: 50px;
     border-radius: 200px;
     width: 300px;
+    cursor: default;
 }
 
 .text{
@@ -116,7 +117,11 @@
     color: #323232;
 }
 
-
+.texthd a{
+  color: black;
+  text-decoration: none;
+  cursor: default;
+}
 
 .waduh{
     animation: colorRotate 6s linear 0s infinite;
